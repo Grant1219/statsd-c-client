@@ -8,7 +8,7 @@
 #include <netinet/in.h>
 #include "statsd-client.h"
 
-#define MAX_MSG_LEN 100
+#define MAX_MSG_LEN 508
 
 
 
